@@ -87,7 +87,7 @@ This repo contains **lessons, exercises, examples, and slides** to help you or y
 This repository is designed to teach Git and GitHub in a structured, practical, and project-based way.
 The goal is to move from beginner to confident contributor in open source projects.
 
-
+## Examples
 #### Clone the repo and try these exercises:
 >```bash
 ># Example 1: Create and merge a branch
