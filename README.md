@@ -26,9 +26,9 @@ This repo contains **lessons, exercises, examples, and slides** to help you or y
 - [Current project team members](#current-project-team-members)
 - [License](#license)
 
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/network)
-[![GitHub Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO)](https://github.com/rabbyhasanrzs/organization.git)
+[![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO)](https://github.com/rabbyhasanrzs/organization.git)
+[![GitHub Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO)](https://github.com/rabbyhasanrzs/organization.gits)
 
 ## Installation
 
